@@ -1,5 +1,6 @@
 {
   "name": "app-smart-home",
+  "homepage": "/smart-home/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
